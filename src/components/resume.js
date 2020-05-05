@@ -44,7 +44,7 @@ class Resume extends Component {
             <h5>Address</h5>
             <p>Old Airport Road, Bengaluru</p>
             <h5>Phone</h5>
-            <p> +91 9608307717 </p>
+            <p> +91 987654321 </p>
             <h5>Email</h5>
             <p>amritajais10@gmail.com</p>
             <h5>Web Site</h5>

@@ -39,7 +39,7 @@ class Contact extends Component {
                       aria-hidden="true"
                       style={{ color: "#124566" }}
                     />
-                    +91 9608307717
+                    +91 987654321
                   </ListItemContent>
                 </ListItem>
 
