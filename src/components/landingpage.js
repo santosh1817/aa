@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { Grid, Cell, Tooltip } from "react-mdl";
+import { Grid, Tooltip } from "react-mdl";
 
 class Landing extends Component {
   render() {

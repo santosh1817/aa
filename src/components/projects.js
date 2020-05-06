@@ -150,13 +150,13 @@ class Projects extends Component {
               Portfolio
             </CardTitle>
             <CardText>I made this portfolio in ReactJS.</CardText>
-            <CardActions border>
+            {/* <CardActions border>
               <Button colored>
-                <a href="https://github.com/amrita-jaiswal/Custom-Google-Map">
-                  GitHub
+                <a href="https://gitlab.com/amritajaiswal/my-portfolio">
+                  Gitlab
                 </a>
               </Button>
-            </CardActions>
+            </CardActions> */}
             <CardMenu style={{ color: "#fff" }}>
               <IconButton name="share" />
             </CardMenu>
@@ -182,7 +182,6 @@ class Projects extends Component {
           <Tab>HTML/CSS</Tab>
           <Tab>JavaScript</Tab>
           <Tab>React</Tab>
-          {/* <Tab>MongoDB</Tab> */}
         </Tabs>
 
         <Grid>
